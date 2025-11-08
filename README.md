@@ -39,3 +39,8 @@ The goal is to understand key patterns in hospital admissions, test results, and
 df = spark.read.option('header',True).option('inferSchema',True).csv('/Volumes/workspace/default/practice/spark.csv')
 df.show(10)
 
+## Authour
+Thiyagesh R S 
+thiya2332@gmail.com 
+
+
